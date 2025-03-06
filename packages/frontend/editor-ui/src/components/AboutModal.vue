@@ -35,7 +35,7 @@ const copyDebugInfoToClipboard = async () => {
 		max-width="540px"
 		:title="i18n.baseText('about.aboutN8n')"
 		:event-bus="modalBus"
-		:name="ABOUT_MODAL_KEY"
+		:name="OliveIT"
 		:center="true"
 	>
 		<template #content>
